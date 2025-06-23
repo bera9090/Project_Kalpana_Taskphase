@@ -20,7 +20,7 @@ https://www.tinkercad.com/things/17zMLzLT5QH-4-bit-counter?sharecode=yBUcCfwliGl
 
 # Tinkercad Circuit 3
 
-This project demonstrates a 7-segment display to count from 1 to 1000 and then back to 1 in a loop.
+This project demonstrates a 7-segment display to count from 1 to 40 and then back to 1 in a loop.
 
 ## Tinkercad Simulation
 https://www.tinkercad.com/things/5OFolU3TWgj-7-segment-?sharecode=Hs0UJJmNTFZj4A-p5tWavOLi6N87rWmfC29sYJPQXCM
